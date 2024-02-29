@@ -1,0 +1,14 @@
+F:\source\Server\Client\bin\Debug\net8.0\Client.exe
+F:\source\Server\Client\bin\Debug\net8.0\Client.deps.json
+F:\source\Server\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+F:\source\Server\Client\bin\Debug\net8.0\Client.dll
+F:\source\Server\Client\bin\Debug\net8.0\Client.pdb
+F:\source\Server\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\Server\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+F:\source\Server\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+F:\source\Server\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+F:\source\Server\Client\obj\Debug\net8.0\Client.dll
+F:\source\Server\Client\obj\Debug\net8.0\refint\Client.dll
+F:\source\Server\Client\obj\Debug\net8.0\Client.pdb
+F:\source\Server\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+F:\source\Server\Client\obj\Debug\net8.0\ref\Client.dll
